@@ -1,12 +1,12 @@
 body {
 	color:black;
-	font-family: "Verdana",sans-Serif;
+	font-family: "Arial";
 	font-size: 12pt;
 	margin-left: 10%;
 	margin-right: 10%;
 	}
 h1 {
-	font-family:"Verdana",sans-Serif;	
+	font-family:"Arial";	
 	font-size: 28pt;
 	font-weight: bold;
 	padding-bottom: 0px;
@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-	font-family:"Verdana",sans-Serif;
+	font-family:"Arial";
 	font-size: 18pt;
 	font-weight: bold;
 	padding-bottom: 0px;
@@ -22,21 +22,21 @@ h2 {
 }
 
 h3 {
-	font-family:"Verdana",sans-Serif;
+	font-family:"Arial";
 	font-size: 12pt;
 	font-weight: normal;
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 }
 h4 {
-	font-family:"Verdana",sans-Serif;
+	font-family:"Arial";
 	font-size: 14pt;
 	font-weight: normal;
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 	}
 li {
-	font-family:"Verdana",sans-Serif;
+	font-family:"Arial";
 	font-size: 12pt;
 	font-weight: normal;
 	padding-bottom: 0px;
